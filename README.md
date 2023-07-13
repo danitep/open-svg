@@ -1,1 +1,1 @@
-https://danitep.github.io/Zoom-svg-project/index-copy.html
+https://danitep.github.io/open-svg/index.html
