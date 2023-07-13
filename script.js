@@ -30,7 +30,7 @@ function initZoom() {
 
 //}
 
-setTimeout(initZoom, 500);
+setTimeout(initZoom, 1000);
 
 
 /* 
