@@ -31,7 +31,7 @@ function initZoom() {
 
 //}
 
-setTimeout(initZoom, 1000);
+setTimeout(initZoom, 3000);
 
 
 /* 
