@@ -9,6 +9,7 @@ object.addEventListener('load' , function(){
 
 /**/
 let svgObject = document.querySelector('#svg5355');
+console.log(svgObject)
 let gFiles = document.querySelectorAll('#svg5355 > *');
 let zoom = d3.zoom().on('zoom', handleZoom);
 
